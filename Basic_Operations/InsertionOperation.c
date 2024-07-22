@@ -3,7 +3,7 @@ int main()
 {
     int  arr[20]={18,30,15,70,12};
     int i ,x,pos,n=5;
-    printf("Array elements before insertion\n");
+    printf("Array elements before insertion:\n");
     for(i =0; i<n;i++)
     printf("%d",arr[i]);
     printf("\n");
