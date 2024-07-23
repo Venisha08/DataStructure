@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "DeleteOperation.C": "cpp"
+        "DeleteOperation.C": "cpp",
+        "UpdateOperation.C": "cpp"
     }
 }
