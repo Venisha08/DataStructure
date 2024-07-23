@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "TwodArray",
+            "request": "launch",
+            "mainClass": "TwodArray",
+            "projectName": "DataStructure_8ace92f0"
+        },
+        {
+            "type": "java",
+            "name": "TwodArray",
+            "request": "launch",
+            "mainClass": "Array.TwodArray",
+            "projectName": "DataStructure_8ace92f0"
+        },
+        {
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
@@ -15,6 +29,5 @@
             "environment": [],
             "console": "externalTerminal"
         }
-
     ]
 }
