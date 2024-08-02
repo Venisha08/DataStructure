@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Searching.LinearSearch",
+            "projectName": "DataStructure_8ace92f0"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "DataStructure_8ace92f0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Sorting.Main",
+            "projectName": "DataStructure_8ace92f0"
+        },
+        {
+            "type": "java",
             "name": "TwodArray",
             "request": "launch",
             "mainClass": "TwodArray",
