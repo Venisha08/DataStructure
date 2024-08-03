@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Searching.BinarySearch",
+            "projectName": "DataStructure_8ace92f0"
+        },
+        {
+            "type": "java",
             "name": "LinearSearch",
             "request": "launch",
             "mainClass": "Searching.LinearSearch",
