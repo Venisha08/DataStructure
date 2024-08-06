@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "DataStructure_8ace92f0"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "Searching.BinarySearch",
